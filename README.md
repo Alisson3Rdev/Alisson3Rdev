@@ -10,8 +10,8 @@
 - 🎓 Attending High School with Integrated Computer Technician on IFSC XXE
 
 ⛩️ Hobies:
-- 🎵 Play the Drumm
-- 🏀 Play E-games and soccer
+- 🎵 play the drums 
+- ⚽ Play E-games and soccer
 
 🚀 Habilities:
 Here some programing languages and technologies who I'm accustumed to use:
