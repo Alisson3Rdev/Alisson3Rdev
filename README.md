@@ -5,17 +5,17 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="300px"/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="300px"/>
 
- 💼 Professional profile:
+ 🦑 Professional profile:
 
 - 💻 Programming and I.T Student
-- 🌱 Love Technology
-- 🎓 Attending High School with Integrated Computer Technician on IFSC XXE
+- 🛸 Love Technology
+- 📖 Attending High School with Integrated Computer Technician on IFSC XXE
 
-⛩️ Hobies:
+🎴 Hobies:
 - 🎵 play the drums 
 - ⚽ Play E-games and soccer
 
-🚀 Habilities:
+📶 Habilities:
 Here some programing languages and technologies who I'm accustumed to use:
 
 ## 👨‍💻 ISOs: 
@@ -34,7 +34,7 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs)](https://skillicons.dev)
 
-## 📫 Contact:
+## 📧 Contact:
 
 ![Gmail Badge](https://img.shields.io/badge/-alisson.ef@aluno.ifsc.edu.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alisson.ef@aluno.ifsc.edu.br)
 
