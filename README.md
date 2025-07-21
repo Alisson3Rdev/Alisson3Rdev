@@ -13,7 +13,7 @@
 
 🎴 Hobies:
 - 🎵 play the drums 
-- ⚽ Play E-games and soccer
+- ⚽ Play E-games and bascketball
 
 📶 Habilities:
 Here some programing languages and technologies who I'm accustumed to use:
@@ -24,7 +24,7 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ## 👨‍💻 Programing languages: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,python)](https://skillicons.dev)
 
 ## ⚙️ Tools:
 
@@ -32,7 +32,7 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ## 📚 Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ## 📧 Contact:
 
