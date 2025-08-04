@@ -52,11 +52,6 @@ Here some programing languages and technologies who I'm accustumed to use:
   <h3><b>📍 Profile Visitor Count 📍</b></h3>
 </div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/Alisson3Rdev/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+
 <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4B0082&section=footer"/>
 
