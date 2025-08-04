@@ -13,7 +13,7 @@
 
 🎴 Hobies:
 - 🎵 play the drums 
-- ⚽ Play E-games and bascketball
+- 🏀 Play E-games and basketball
 
 📶 Habilities:
 Here some programing languages and technologies who I'm accustumed to use:
