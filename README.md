@@ -48,10 +48,6 @@ Here some programing languages and technologies who I'm accustumed to use:
 </div>
 
 ##
-<div align="center">
-  <h3><b>📍 Profile Visitor Count 📍</b></h3>
-</div>
-
 
 <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4B0082&section=footer"/>
 
