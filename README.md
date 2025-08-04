@@ -20,7 +20,7 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ## 👨‍💻 ISOs: 
 
-[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
 
 ## 👨‍💻 Programing languages: 
 
