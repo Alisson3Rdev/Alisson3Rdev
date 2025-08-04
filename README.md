@@ -24,7 +24,7 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ## 👨‍💻 Programing languages: 
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
 
 ## ⚙️ Tools:
 
@@ -32,7 +32,7 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ## 📚 Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 ## 📧 Contact:
 
