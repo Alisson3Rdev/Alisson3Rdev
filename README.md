@@ -20,7 +20,7 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ## 👨‍💻 ISOs: 
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
 ## 👨‍💻 Programing languages: 
 
@@ -32,7 +32,7 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ## 📚 Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=java,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html)](https://skillicons.dev)
 
 ## 📧 Contact:
 
