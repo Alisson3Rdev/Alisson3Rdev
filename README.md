@@ -32,7 +32,7 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ## 📚 Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 
 ## 📧 Contact:
 
