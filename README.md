@@ -28,7 +28,7 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ## ⚙️ Tools:
 
-![My Skills](https://skillicons.dev/icons?i=github,vscode,discord)
+![My Skills](https://skillicons.dev/icons?i=github,vscode,discord,intellij)
 
 ## 📚 Learning:
 
