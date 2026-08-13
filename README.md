@@ -39,7 +39,7 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ![Gmail Badge](https://img.shields.io/badge/-aeliabifigueira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aeliabifigueira@gmail.com)
 
-//teste
+
 
 <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4B0082&section=footer"/>
 
