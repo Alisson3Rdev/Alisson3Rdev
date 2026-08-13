@@ -10,6 +10,7 @@
 - 💻 Programming and I.T Student
 - 🛸 Love Technology
 - 📖 Attending High School with Integrated Computer Technician on IFSC XXE
+- Currently working at System UP as a IT technician assistant
 
 🎴 Hobies:
 - 🎵 play the drums 
@@ -36,7 +37,7 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ## 📧 Contact:
 
-![Gmail Badge](https://img.shields.io/badge/-aeliabifigueira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alisson.ef@aluno.ifsc.edu.br)
+![Gmail Badge](https://img.shields.io/badge/-aeliabifigueira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aeliabifigueira@gmail.com)
 
 ## 🔝 Status:
 
