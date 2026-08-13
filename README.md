@@ -39,14 +39,6 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ![Gmail Badge](https://img.shields.io/badge/-aeliabifigueira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aeliabifigueira@gmail.com)
 
-## 🔝 Status:
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson3Rdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats">
-  </div>
-</div>
-
 ##
 
 <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4B0082&section=footer"/>
